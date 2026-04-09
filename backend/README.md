@@ -83,15 +83,45 @@ Check out a few resources that may come in handy when working with NestJS:
 - To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
 - Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
 
-## Support
+# 🚀 Insurance Portal Backend (NestJS)
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+This is the **backend API** for the Insurance Claims Management Portal.  
+It is built using **NestJS, TypeORM, PostgreSQL, and JWT authentication**.
+
+---
+
+## 📌 Overview
+
+The backend handles:
+
+- User authentication (Signup/Login)
+- Role-based authorization
+- Claims management
+- Secure API endpoints
+- Database integration
+
+---
+
+## 🧠 Tech Stack
+
+- NestJS (Node.js framework)
+- TypeScript
+- TypeORM
+- PostgreSQL (Neon DB)
+- JWT Authentication
+- bcrypt (password hashing)
+
+---
+
+
+### Register
+```http
+POST /auth/register
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Rangaswamyreddy K] ( Sr React/ Node JS Developer)
+- Linkedln - (https://www.linkedin.com/in/rangaswamy-k-a42b0b272/)
 
 ## License
 
