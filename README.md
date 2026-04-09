@@ -69,11 +69,4 @@ This project simulates a **real-world insurance workflow system** with authentic
 - Render (Backend)
 - Neon (Database)
 
----
 
-## 📂 Project Structure
-insurance-portal/
-├── frontend/     # Next.js frontend
-├── backend/      # NestJS backend API
-├── docker-compose.yml
-└── README.md
