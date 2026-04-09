@@ -118,6 +118,8 @@ The backend handles:
 ```http
 POST /auth/register
 
+---
+
 ## Stay in touch
 
 - Author - [Rangaswamyreddy K] ( Sr React/ Node JS Developer)
