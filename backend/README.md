@@ -120,9 +120,9 @@ POST /auth/register
 
 ---
 
-## Stay in touch
+### Stay in touch
 
-- Author - [Rangaswamyreddy K] ( Sr React/ Node JS Developer)
+- Author - [Rangaswamyreddy K]( Sr React/ Node JS Developer)
 - Linkedln - (https://www.linkedin.com/in/rangaswamy-k-a42b0b272/)
 
 ## License
